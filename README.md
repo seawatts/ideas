@@ -1,6 +1,6 @@
 # Welcome, Bienvenue! 
 
-I believe that it's better to share our ideas with others than to keep them to ourselves. I think some entrepreneurs would disagree with me on this because of potential IP, but oh well. 🤷‍♂️
+I believe that it's better to share our ideas with others than to keep them to ourselves. I think some entrepreneurs would disagree with me on this because of potential IP. The thing is that everyone has ideas... if you are concerned that someone else will implement it before you than this repo is probably not for you. Going from idea to profitable operation is a huge challenge. And there are always more than one way to implement an idea.
 
 This is a public repo so that people who want to can collaborate on any ideas they want to build. This can range from a software solution to something, some sort of hardware you want to develop, or a new start-up idea.
 
