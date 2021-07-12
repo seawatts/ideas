@@ -13,6 +13,8 @@ How I decide to move forward on these will rely on a set of tenets, influenced b
 
 # How it works
 
+You can find all the existing ideas in the [Issues tab](https://github.com/seawatts/ideas/issues)
+
 ## Creating a new idea (GitHub Issue)
 
 Feel free to create any new ideas you'd like. You can do so by just creating a [new GitHub Issue](https://github.com/seawatts/ideas/issues/new/choose)
