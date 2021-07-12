@@ -1,5 +1,5 @@
 ---
-name: New Idea Template
+name: New Idea
 about: This is a template that outlines some of the high level descriptions that should
   be filled out.
 title: "(idea): Build a rocket to the sun!"
