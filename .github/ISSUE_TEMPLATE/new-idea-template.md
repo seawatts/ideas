@@ -45,6 +45,11 @@ High / Medium / Low
 How much time and effort will it take to implement the idea?
 How many engineers, designers, etc.
 How much experience do you need to have in order to implement this? Jr software engineer, sr engineer?
+-->
+
+## Experience
+
+<!--
 What experience/background would be helpful to implement this feature?
 -->
 
