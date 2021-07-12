@@ -15,7 +15,7 @@ How I decide to move forward on these will rely on a set of tenets, influenced b
 
 ## Creating a new idea (GitHub Issue)
 
-Feel free to create any new ideas you'd like. You can do so by just creating a [new GitHub Issue](https://github.com/seawatts/ideas/issues/new)
+Feel free to create any new ideas you'd like. You can do so by just creating a [new GitHub Issue](https://github.com/seawatts/ideas/issues/new/choose)
 
 ## Commenting on other ideas
 
