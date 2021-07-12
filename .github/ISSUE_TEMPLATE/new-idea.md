@@ -3,7 +3,7 @@ name: New Idea
 about: This is a template that outlines some of the high level descriptions that should
   be filled out.
 title: "(idea): Build a rocket to the sun!"
-labels: type:idea
+labels: type:idea, progress:not started
 assignees: ''
 
 ---
@@ -62,7 +62,7 @@ How much experience do you need to have in order to implement this? Jr software 
 What experience/background would be helpful to implement this feature?
 -->
 
-## Contributing
+## Contributing / Open Questions
 
 <!--
 Use this section to ask for specific help on this idea.
