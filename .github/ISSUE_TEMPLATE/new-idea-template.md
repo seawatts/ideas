@@ -29,13 +29,13 @@ Here you can add more details that would be good for a v2 of the idea.
 # Audience
 
 <!--
-Describe who your audience is. Other developers, designers, customers, investors, etc.
+Describe who your audience / who is this built for? Other developers, designers, customers, investors, etc.
 -->
 
 # Reach
 
 <!--
-Who will this idea reach? How large is that reach?
+Who will this idea reach? How large is that reach? Could this be a really big idea that would turn into a startup?
 -->
 
 ## Level of effort
