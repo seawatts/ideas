@@ -9,9 +9,9 @@ assignees: ''
 ---
 
 <!--
-First of all, thanks for sharing your idea here! Don't feel obligated to fill every section here. This is more ment for a guidline to get you started.
+First of all, thanks for sharing your idea here! Don't feel obligated to fill every section here. This is more meant as a guideline to get you started.
 
-Rembember to add the appropriate labels to this issue once you are done.
+Remember to add the appropriate labels to this issue once you are done.
 * reach:
 * audience:
 * effort
